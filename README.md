@@ -6,6 +6,7 @@ Mi nombre es **Alisson Alfonzo**.
 
 ✨ ¡Mucho gusto! 😊
 
+## <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="500">
 <!--
 **alissonalfonzo-boop/alissonalfonzo-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
