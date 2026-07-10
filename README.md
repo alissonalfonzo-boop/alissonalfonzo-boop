@@ -1,4 +1,10 @@
-## Hi there 👋
+🎨 **¡Hola!** 👋
+
+Mi nombre es **Alisson Alfonzo**.
+
+🏛️ Soy egresada de **Trabajo Social** en la **Universidad Nacional del Centro del Perú**.
+
+✨ ¡Mucho gusto! 😊
 
 <!--
 **alissonalfonzo-boop/alissonalfonzo-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
